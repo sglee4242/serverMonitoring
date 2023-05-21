@@ -72,7 +72,7 @@
 			<plugin>
 				<groupId>org.sonarsource.scanner.maven</groupId>
 				<artifactId>sonar-maven-plugin</artifactId>
-				<version>3.9.1.2184</version> <!-- 사용하는 플러그인 버전 -->
+				<version>10.0.0.68432</version> <!-- 사용하는 플러그인 버전 -->
 				<configuration>
 					<sonar.host.url>http://180.226.122.156:9000</sonar.host.url> <!-- SonarQube 서버 URL 설정 -->
 				</configuration>
