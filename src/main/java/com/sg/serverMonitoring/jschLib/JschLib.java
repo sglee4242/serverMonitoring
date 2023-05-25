@@ -48,7 +48,6 @@ public class JschLib {
 
 		} catch (JSchException e) {
 			e.printStackTrace();
-			System.out.println("실패");
 		} catch (IOException ioe) {
 			ioe.printStackTrace();
 			System.out.println("실패");
