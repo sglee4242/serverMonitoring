@@ -44,7 +44,7 @@ public class JschLib {
 			while ((line = reader.readLine()) != null) {
 				System.out.println(line);
 			}
-			System.out.println("성공bb");
+			System.out.println("성공");
 
 		} catch (JSchException e) {
 			e.printStackTrace();
